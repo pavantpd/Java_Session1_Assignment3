@@ -1,0 +1,14 @@
+package com.java.assignment1;
+
+public class Nonintdatatype {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		float b= 66.0f;
+		double d= 3333.0000;
+		
+		System.out.println("float b= "+b+"double d="+d+" which is not integer types");
+		
+	}
+
+}
